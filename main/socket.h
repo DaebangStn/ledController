@@ -5,7 +5,7 @@
 
 
 #define HOST_IP_ADDR "192.168.0.3"
-#define PORT 8000
+#define PORT 50004
 
 
 using namespace std;

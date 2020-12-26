@@ -22,6 +22,6 @@ void app_main()
 
     while(1){
         get_image(1, 0, recv_buf, 90);
-        vTaskDelay(500 / portTICK_RATE_MS);
+        vTaskDelay(10 / portTICK_RATE_MS);
     }
 }
